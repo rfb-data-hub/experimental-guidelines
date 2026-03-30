@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-07-07'
+date-meta: '2026-03-30'
 author-meta:
 - Fikile Brushett
 - Michael J. Aziz
@@ -26,11 +26,11 @@ header-includes: |
   <meta name="citation_title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
   <meta property="og:title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
   <meta property="twitter:title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
-  <meta name="dc.date" content="2025-07-07" />
-  <meta name="citation_publication_date" content="2025-07-07" />
-  <meta property="article:published_time" content="2025-07-07" />
-  <meta name="dc.modified" content="2025-07-07T11:09:26+00:00" />
-  <meta property="article:modified_time" content="2025-07-07T11:09:26+00:00" />
+  <meta name="dc.date" content="2026-03-30" />
+  <meta name="citation_publication_date" content="2026-03-30" />
+  <meta property="article:published_time" content="2026-03-30" />
+  <meta name="dc.modified" content="2026-03-30T12:09:51+00:00" />
+  <meta property="article:modified_time" content="2026-03-30T12:09:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,9 +70,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/experimental-guidelines/" />
   <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/experimental-guidelines/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/experimental-guidelines/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/" />
-  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/experimental-guidelines/v/a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/experimental-guidelines/v/a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/experimental-guidelines/v/a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -94,10 +94,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/))
+([permalink](https://rfb-data-hub.github.io/experimental-guidelines/v/a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9/))
 was automatically generated
-from [rfb-data-hub/experimental-guidelines@0ff96af](https://github.com/rfb-data-hub/experimental-guidelines/tree/0ff96afd6f0c279e8c741d92a87964783dc73018)
-on July 7, 2025.
+from [rfb-data-hub/experimental-guidelines@a9a26fa](https://github.com/rfb-data-hub/experimental-guidelines/tree/a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9)
+on March 30, 2026.
 </em></small>
 
 
@@ -191,6 +191,8 @@ Steven Le Vot \<steven.le-vot@umontpellier.fr\>.
 ## Abstract {.page_break_before}
 
 This is the abstract for the experimental guideline manuscript. This is another addition to test the Git implementation in Obsidian.
+
+Here a cool idea!
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
