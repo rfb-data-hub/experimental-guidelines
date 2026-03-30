@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/rfb-data-hub/experimental-guidelines/tree/gh-pages) branch hosts the contents of this directory at <https://rfb-data-hub.github.io/experimental-guidelines/>.
-The permalink for this webpage version is <https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/>.
+The permalink for this webpage version is <https://rfb-data-hub.github.io/experimental-guidelines/v/a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://rfb-data-hub.github.io/experimental-guidelines/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0ff96afd6f0c279e8c741d92a87964783dc73018`](https://github.com/rfb-data-hub/experimental-guidelines/commit/0ff96afd6f0c279e8c741d92a87964783dc73018).
+[`a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9`](https://github.com/rfb-data-hub/experimental-guidelines/commit/a9a26fa5c0d33ee6ec278d269abff33cc5cfa9b9).
